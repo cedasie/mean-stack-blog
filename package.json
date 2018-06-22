@@ -1,0 +1,23 @@
+{
+  "name": "meanstack",
+  "version": "1.0.0",
+  "description": "Mean Stack with Angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cedasie/mean-stack-blog.git"
+  },
+  "author": "Ced",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cedasie/mean-stack-blog/issues"
+  },
+  "homepage": "https://github.com/cedasie/mean-stack-blog#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.1.6"
+  }
+}
